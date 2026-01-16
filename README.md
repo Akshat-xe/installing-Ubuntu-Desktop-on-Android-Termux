@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/736x/9e/7b/3c/9e7b3cf486c236909de7e1140dddac24.jpg" width="100%" alt="Dark Aura Header" />
+
+
 # 🔯 Phase 1: Download the Essentials
 Before we start, you need the engine (Termux) and the screen (VNC Viewer).
 
